@@ -21,7 +21,7 @@
 				"ligolang-publish.ligo-vscode"
 			],
 			"settings": {
-				"ligoLanguageServer.ligoBinaryPath": "ligo"
+				"ligoLanguageServer.ligoBinaryPath": "/workspaces/tea/__tea/bin/ligo"
 			}
 		}
 	},
